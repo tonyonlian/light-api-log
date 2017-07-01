@@ -1,9 +1,8 @@
 {
   "name": "light-api-log",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.3",
+  "description": "the plugin of the hapi for log service",
   "main": "./lib",
-  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
